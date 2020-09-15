@@ -3,7 +3,7 @@
 
 
 
-The Launch Space is part of Microsoft learn TV.  This repo is a place to share slide decks, demos and links.  Each show is in it's own directory on the left.
+The Launch Space is part of Microsoft learn TV.  This repo is a place to share slide decks, demos and links.  Each show is in it's own directory.
 
 The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
 
