@@ -1,17 +1,13 @@
 
-# The Launch Space - decks, demos and links
+# The Launch Space - Episode 1 - Azure Spring Cloud GA - 2020.09.15
 
+<img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
+This Launch Space episode was broadcast here: https://youtu.be/QPXNfV9MciI
 
-The Launch Space is part of Microsoft learn TV.  This repo is a place to share slide decks, demos and links.  Each show is in it's own directory on the left.
-
-The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
-
-Learn TV can be viewed here: http://aka.ms/learnTV
+Follow the links on the left to fins demos, links and slide decks for specific segments of this episode.
 
 <br/>
-
-<img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
 ### Contributing
 
