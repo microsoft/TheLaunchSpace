@@ -3,18 +3,31 @@
 
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
-This Launch Space episode was broadcast here: https://youtu.be/QPXNfV9MciI
 
-Follow the links below to find demos, links and slide decks for specific segments of this episode.
 
 [Return to The Launch Space](../README.md)
 <br/>
 
+Learn how to run your java and Spring Boot apps on a fully managed cloud service from @Microsoft @VMWare and @Pivotal.
+
+- VMWare and Microsoft Partnership: Julia Liuson and Ajay Patel
+- Introduction to Azure Spring Cloud: Asir Selvasingh
+- Customer Panel Discussion: VMWare, Microsoft, Swiss Re, Raley’s and Liantis
+- Enabling enterprise-grade AuthN and AuthZ: Julien Dubois
+- DevOps and Azure Spring Cloud: Yev Bronshteyn
+- Spring on Azure integrations: Josh Long
+- Azure Spring Cloud in Virtual Networks: Asir Selvasingh
+- Autoscaling Apps in Azure Spring Cloud: Rory Preddy
+- Managing Secrets in Azure Spring Cloud: Manfred Riem
+- Azure Spring Cloud,  JMS 2.0 , AMQP and Service Bus: Ashish Chhabria
+
+[Episode Playlist](https://aka.ms/AzureSpringGAPlaylist)
+(Individual segments are below)
 
 #### Introduction
 Brian Benz kicks off the program for Azure Spring Cloud on Learn TV.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=QPXNfV9MciI&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=1&t=720s)
 <br/>
 
 
@@ -22,14 +35,14 @@ Brian Benz kicks off the program for Azure Spring Cloud on Learn TV.
 #### Microsoft and VMware: supporting Spring and open source developers
 Julia Liuson, CVP of Developer Division at Microsoft, and Ajay Patel, SVP/GM of Modern Applications Platform Business Unit at VMware, discuss the Microsoft and VMware partnership, modern application development, and Azure Spring Cloud. Hear how Microsoft and VMware are working together to support developers, Spring, and the open source ecosystem.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=lQCmZPnY8Gk&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=2&t=13s)
 <br/>
 
 
 #### Azure Spring Cloud - a fully managed service for Spring Boot apps
 Azure Spring Cloud abstracts away the complexity of infrastructure management and Spring Cloud middleware management, so you can focus on building your business logic and let Azure take care of dynamic scaling, patches, security, compliance, and high availability. With a few steps, you can provision Azure Spring Cloud, create apps, deploy, and scale Spring Boot apps and start monitoring in minutes. Learn more about Azure Spring Cloud in this overview session and see how easy it is to get started today.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=nlYLfw2T_Nc&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=3&t=4s)
 <br/>
 [Slides](intro-azure-spring-cloud-september-2020-learn-tv.pdf)
 <br/>
@@ -46,7 +59,7 @@ Learn how enterprise leaders are using Azure Spring Cloud to transform their IT 
 - Empowering their developers to rapidly dev and deploy
 - Delivering value faster to their end customers
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=84E07jHh1Dk&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=4&t=12s)
 <br/>
 [Slides](springone-2020-discussion-with-azure-spring-cloud-customers.pdf)
 <br/>
@@ -54,9 +67,9 @@ Learn how enterprise leaders are using Azure Spring Cloud to transform their IT 
 #### Deploy to Azure Spring Cloud and enable enterprise-grade AuthN and AuthZ
 Join this live coding session to learn how to deploy to Azure Spring Cloud and enable enterprise grade authentication (AuthN) and authorization (AuthZ) with Azure Active Directory (AAD).
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=iCXqf82JrxU&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=5)
 <br/>
-[Slides](Azure Spring Cloud on Learn TV.pdf)
+[Slides](Azure-Spring-Cloud-on-Learn-TV.pdf)
 <br/>
 
 #### Rapidly dev and deploy Spring apps to Azure Spring Cloud
@@ -65,15 +78,15 @@ Azure Spring Cloud enables rapid development and deployment of your applications
 - Build using Maven / Gradle and Azure Pipelines
 - Release using Azure CLI and Azure Pipelines
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=tGlf_rC7OdA&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=6)
 <br/>
-[Slides](Rapidly dev and deploy Spring apps to Azure Spring Cloud.pdf)
+[Slides](Rapidly-dev-and-deploy-Spring-apps-to-Azure-Spring-Cloud.pdf)
 <br/>
 
 #### Amazing Spring on Azure integrations
 Josh Long, Spring Developer Advocate at VMware, talks about the amazing functionality of Spring on Azure integrations. Learn how to use Spring Cloud Stream Binders for Azure Event Hub and Service Bus.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=UICrWebXqB4&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=7&t=46s)
 <br/>
 [Slides](bootiful-azure-josh-long.pdf)
 <br/>
@@ -84,33 +97,35 @@ Managed Virtual Network puts you in control of all your network communications a
 - Enable on-premises data center connectivity
 - Control ingress and egress for apps in Azure Spring Cloud
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=b13qaX976ZM&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=8)
 <br/>
 [Slides](securing-apps-on-azure-spring-cloud-using-managed-virtual-networks.pdf)
 <br/>
 
 #### Drive higher utilization of apps in Azure Spring Cloud with Autoscale
+
 Autoscale enables you to be more productive and cost-efficient by automatically scaling apps based on load or schedule. Watch a hands-on demo and learn how to use this powerful functionality with Azure Spring Cloud to drive higher utilization of your apps.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+
+[Video](https://www.youtube.com/watch?v=mhJk3wuyDiE&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=9)
 <br/>
-[Slides](Azure Spring Cloud AutoScaling.pdf)
+[Slides](Azure-Spring-Cloud-AutoScaling.pdf)
 <br/>
 
 #### Manage secrets for apps in Azure Spring Cloud with Key Vault
 Keep your secrets a secret with Key Vault! Key Vault stores secrets and enforces a zero-trust model. You keep control over your secrets—simply grant permission for your own applications to use them as needed. In this demo, you'll learn how to use the power of Key Vault with your apps in Azure Spring Cloud.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=IOY2tsfTHQU&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=10)
 <br/>
-[Slides](Manage secrets for apps in Azure Spring Cloud using Key Vault.pdf)
+[Slides](Manage-secrets-for-apps-in-Azure-Spring-Cloud-using-Key-Vault.pdf)
 <br/>
 
 #### Integrate Spring apps with Service Bus using JMS 2.0
 Azure Service Bus is a cloud-scale messaging system that simplifies enterprise messaging by leveraging the industry-driven Advanced Message Queuing Protocol (AMQP). You can use the familiar Java Message Service (JMS) 2.0 and connect your Spring apps to Service Bus using the Spring JMS starter. Watch this demo to learn more.
 
-[Video](https://youtu.be/QPXNfV9MciI)
+[Video](https://www.youtube.com/watch?v=9O3CALyoZHE&list=PLlrxD0HtieHiRGzfYIz-j1LNJTcQAxJRG&index=11)
 <br/>
-[Slides](Azure Spring Cloud on Learn TV - Service Bus JMS.pdf)
+[Slides](Azure-Spring-Cloud-on-Learn-TV-Service-Bus-JMS.pdf)
 <br/>
 
 ### Contributing
