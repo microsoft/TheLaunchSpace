@@ -1,6 +1,7 @@
 
 # The Launch Space - decks, demos and links
 
+<img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
 
 The Launch Space is part of Microsoft learn TV.  This repo is a place to share slide decks, demos and links.  Each show is in it's own directory.
@@ -11,7 +12,8 @@ Learn TV can be viewed here: http://aka.ms/learnTV
 
 <br/>
 
-<img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
+### Episodes
+
 
 ### Contributing
 
