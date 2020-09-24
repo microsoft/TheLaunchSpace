@@ -14,6 +14,7 @@ Learn TV can be viewed here: http://aka.ms/learnTV
 
 ### Episodes
 
+[2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA\README.md)
 
 ### Contributing
 

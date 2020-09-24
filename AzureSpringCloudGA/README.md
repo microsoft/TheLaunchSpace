@@ -5,7 +5,7 @@
 
 This Launch Space episode was broadcast here: https://youtu.be/QPXNfV9MciI
 
-Follow the links on the left to find demos, links and slide decks for specific segments of this episode.
+Follow the links below to find demos, links and slide decks for specific segments of this episode.
 
 [Return to The Launch Space](../)
 <br/>
