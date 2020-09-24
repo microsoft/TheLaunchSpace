@@ -4,9 +4,9 @@
 
 <img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
-The Launch space is a new live broadcast show on Learn TV for amplifying news of new Microsoft product and feature releases, assisting with calls-to-action, and providing feedback to product teams.  
+The Launch space is a new live broadcast show on Learn TV for sharing news about new Microsoft product and feature releases.  
 
-This repo is a place to share slide decks, demos and links.  Each show is in it's own directory.
+This repo is a place to share slide decks, demos and links.  
 
 # Episodes
 #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
