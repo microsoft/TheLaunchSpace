@@ -1,24 +1,17 @@
 
-## The Launch Space - decks, demos and links
+## The Launch Space - Episode 2 - Kubernetes on Azure - 2020.12.01
+<br/>
+<img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
+
+
+
+[Return to The Launch Space](../README.md)
 <br/>
 
-<img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
+Keynote by [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), CVP, Microsoft, and co-creator of Kubernetes, followed by several segments highlighting the latest news about Kubernetes on Azure!
 
-The Launch space is a new live broadcast show on Learn TV for sharing news about new Microsoft product and feature releases.  
+This show is in development.  Check back for exciting details on the show!
 
-This repo is a place to share slide decks, demos and links.
-<br/>  
-
-### Episodes
-- #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
-- #### [2020.12.01 - Kubernetes on Azure](KubernetesOnAzure/README.md)
-<br/><br/>
-
-The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
-
-Learn TV can be viewed here: http://aka.ms/learnTV
-
-<br/>
 
 ### Contributing
 

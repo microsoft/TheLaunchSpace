@@ -1,6 +1,6 @@
 
-# The Launch Space - Episode 1 - Azure Spring Cloud GA - 2020.09.15
-
+## The Launch Space - Episode 1 - Azure Spring Cloud GA - 2020.09.15
+<br/>
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
 
