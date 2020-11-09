@@ -10,6 +10,17 @@
 
 Keynote by [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), CVP, Microsoft, and co-creator of Kubernetes, followed by several segments highlighting the latest news about Kubernetes on Azure!
 
+Speakers
+
+ - Sean Mckenna - Principal Lead Program Manager
+  - Jason Hansen – Principal Program Manager
+  - Chris Sanders – Program Manager 
+  - Abhilasha Agarwala - Program Manager
+  - Phillip Gibson – Senior Program Manager
+  - Mark Chmarny, Principal Program Manager
+  
+
+
 This show is in development.  Check back for exciting details on the show!
 
 
