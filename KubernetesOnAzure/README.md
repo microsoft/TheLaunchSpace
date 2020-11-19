@@ -1,5 +1,5 @@
 
-## The Launch Space - Episode 2 - Kubernetes on Azure - 2020.12.01
+## The Launch Space - Episode 2 - Kubernetes on Azure - 2020.12.08
 <br/>
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 

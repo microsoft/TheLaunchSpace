@@ -11,7 +11,7 @@ This repo is a place to share slide decks, demos and links.
 
 ### Episodes
 - #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
-- #### [2020.12.01 - Kubernetes on Azure](KubernetesOnAzure/README.md)
+- #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
 <br/><br/>
 
 The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
