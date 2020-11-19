@@ -8,14 +8,14 @@
 [Return to The Launch Space](../README.md)
 <br/>
 
-## December 8, 2020 10 AM - 1PM Pacific TIme
+## December 8, 2020 10AM - 1PM Pacific Time
 ### [Join the show here!](http://aka.ms/learntv)  
 
 
-### 10AM: Keynote by [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), CVP, Microsoft, and co-creator of Kubernetes
-Kubernetes Innovation	The latest updates on how we are helping enterprise customers build reliable, scalable applications with open source and cloud native technologies.
+### 10:00 AM: Keynote by [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), CVP, Microsoft, and co-creator of Kubernetes
+The latest updates on how we are helping enterprise customers build reliable, scalable applications with open source and cloud native technologies.
 
-### 10:30AM: AKS - Recent announcements and roadmap	
+### 10:30 AM: AKS - Recent announcements and roadmap	
 ##### Sean Mckenna, Principal Lead Program Manager – Kubernetes Service 
 
 AKS continues to grow rapidly in usage and capabilities. This session was highlight some of the announcements across developer productivity, security, operational efficiency, and more and tee up some of the major investments on our near-term roadmap.	
