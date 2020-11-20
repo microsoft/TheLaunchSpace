@@ -29,8 +29,9 @@ o dive deep into some new GitOps scenarios that include expanded authentication 
 ##### Abhilasha Agarwala, Program Manager, Azure Edge and Platform
 Azure Kubernetes Service on Azure Stack HCI is an on-premises implementation of the popular Azure Kubernetes Service (AKS) orchestrator, which automates running containerized applications at scale. Azure Kubernetes Service is now in preview on Azure Stack HCI, making it quicker to get started hosting Linux and Windows containers in your datacenter.	
 
-### 12:00 PM: OSM (open service mesh)		
-##### Phillip Gibson – Senior Program Manager
+### 12:00 PM: First Look: OSM integration with AKS
+#### Phillip Gibson – Senior Program Manager
+Open Service Mesh is a lightweight and extensible cloud native service mesh that takes a simple approach for users to uniformly manage, secure, and get out-of-the box observability features for highly dynamic microservices environments. The Azure AKS and Network teams have been hard at work to integrate OSM with the managed AKS service. Here is an early first look at how some of the upcoming integration and experience will look like.
 
 ### 12:30 PM: Identity management in distributed applications using Dapr 	
 ##### Mark Chmarny, Principal Program Manager
