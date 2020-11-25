@@ -10,7 +10,7 @@
 
 ## December 8, 2020 10AM - 1PM Pacific Time
 
-### [Click here to save the date (no registration required)](KubernetesonAzureonline_December82020_10AM_1PM_Pacific_Time.ics) 
+### [Click here to save the date (no registration required)](https://1drv.ms/u/s!ApsEddgtzel7oZN6bNba00pE4ITsIQ?e=muh2yk) 
 ### [View the LearnTV Broadcast](http://aka.ms/learntv)  
 
 
