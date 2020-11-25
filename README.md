@@ -9,9 +9,12 @@ The Launch space is a new live broadcast show on Learn TV for sharing news about
 This repo is a place to share slide decks, demos and links.
 <br/>  
 
-### Episodes
-- #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
+### Next show:
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
+
+### Previous Shows:
+- #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
+
 <br/><br/>
 
 The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
