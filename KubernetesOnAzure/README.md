@@ -10,7 +10,7 @@
 
 ## December 8, 2020 10AM - 1PM Pacific Time
 
-### [Click here to save the date (no registration required)](https://thelaunchspacedownloads.blob.core.windows.net/savethedate/KubernetesonAzureonline_December82020_10AM_1PM_Pacific_Time.ics) 
+### [Save the date (no registration required)](https://thelaunchspacedownloads.blob.core.windows.net/savethedate/KubernetesonAzureonline_December82020_10AM_1PM_Pacific_Time.ics) 
 ### [View the LearnTV Broadcast](http://aka.ms/learntv)  
 
 
