@@ -9,8 +9,13 @@
 <br/>
 
 ## December 8, 2020 10AM - 1PM Pacific Time
-### [Join the show here!](http://aka.ms/learntv)  
 
+### [Save the date (no registration required)](https://thelaunchspacedownloads.blob.core.windows.net/savethedate/KubernetesonAzureonline_December82020_10AM_1PM_Pacific_Time.ics) 
+### [View the LearnTV Broadcast](http://aka.ms/learntv)  
+
+
+
+## Agenda 
 
 ### 10:00 AM: Keynote by [Brendan Burns](https://www.linkedin.com/in/brendan-burns-487aa590/), CVP, Microsoft, and co-creator of Kubernetes
 The latest updates on how we are helping enterprise customers build reliable, scalable applications with open source and cloud native technologies.
