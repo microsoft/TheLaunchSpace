@@ -41,17 +41,11 @@ Open Service Mesh is a lightweight and extensible cloud native service mesh that
 ### 12:30 PM: Identity management in distributed applications using Dapr 	
 ##### Mark Chmarny, Principal Program Manager
 
-Dapr makes microservice development easier in any language. Using its consistent APIs and reusable building blocks, developers can quickly build distributed applications that are both dynamic and portable. 
- 
-To secure these applications, Dapr provides automatic in-transit encryption using mutual TLS, SPIFFE-based application identity, and a granular set of easy to configure runtime access control policies.  
- 
-This session will review these options with a live demo of: 
+Dapr makes microservice development easier in any language. Using its consistent APIs and reusable building blocks, developers can quickly build distributed applications that are both dynamic and portable. To secure these applications, Dapr provides automatic in-transit encryption using mutual TLS, SPIFFE-based application identity, and a granular set of easy to configure runtime access control policies. This session will review these options with a live demo of: 
  
 - Trust relationship definition between microservices 
 - Operation-level access policy  
-- Per-application component scoping  
-- Application-level access controls for secrets 
-
+- Component and secrets access scoping
 
 ### Contributing
 
