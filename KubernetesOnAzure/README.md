@@ -10,9 +10,7 @@
 
 ## December 8, 2020 10AM - 1PM Pacific Time
 
-### [Save the date (no registration required)](https://thelaunchspacedownloads.blob.core.windows.net/savethedate/KubernetesonAzureonline_December82020_10AM_1PM_Pacific_Time.ics) 
-### [View the LearnTV Broadcast](http://aka.ms/learntv)  
-
+### [View the recorded LearnTV Broadcast](https://youtu.be/xvlc-LTTro0)  
 
 
 ## Agenda 
@@ -36,6 +34,8 @@ AKS continues to grow rapidly in usage and capabilities. This session was highli
 
 [Microsoft Learn - Introduction to Kubernetes on Azure](https://cda.ms/1RL)
 
+[Slides](AKS-LearnTV-2020-12-08.pdf)
+<br/>
 
 ### 11:00 AM: Azure Arc - Recent announcements, Arc enabled servers and Kubernetes, GitOps with Arc and AKS	
 ##### Jason Hansen, – Principal Program Manager, Azure Arc / Chris Sanders – Senior Program Manager, Azure Arc
@@ -73,7 +73,7 @@ Open Service Mesh is a lightweight and extensible cloud native service mesh that
 
 [Open Service Mesh Repo](https://aka.ms/openservicemeshgithub)
 
-[Service Mesh Inerface Site](https://aka.ms/servicemeshinterface)
+[Service Mesh Interface Site](https://aka.ms/servicemeshinterface)
 
 ### 12:30 PM: Identity management in distributed applications using Dapr 	
 ##### Mark Chmarny, Principal Program Manager
@@ -88,6 +88,9 @@ Dapr makes microservice development easier in any language. Using its consistent
 [Dapr Site](https://aka.ms/dapr.io)
 
 [Mark's Dapr Demos on GitHub](https://aka.ms/daprdemos)
+
+[Slides](LaunchSpaceArc-Dec2020.pdf)
+<br/>
 
 ### Contributing
 
