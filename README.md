@@ -10,8 +10,10 @@ The show is Broadcast on [LearnTV](http://aka.ms/learntv)
 This repo is a place to share slide decks, demos and links.
 <br/>  
 
-### Next show:
-More shows coming in January 2021!
+### The next shows:
+- #### [2021.02.10 11:00 AM PST - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)
+- #### [2021.02.16 11:00 AM PST - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
+
 
 ### Previous Shows:
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
