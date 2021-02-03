@@ -10,6 +10,7 @@
 
 ### [Learn TV Broadcast](https://aka.ms/learntv) 
 
+Explore the future of data and analytics with a focus on reliably creating trusted, accurate data and timely, actionable insights.  Take a tour of [Azure Purview](https://azure.microsoft.com/services/purview/), a unified data governance service, and see how it enables you to easily discover your data, derive meaning from it, and maximize its business value.  Follow demos to see how Power BI, [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/), and Azure Purview work together to provide an end-to-end data and analytics solution that accelerates time to insight.
 
 ### 11:00 AM : Quick and easy enterprise data discovery for all, Gaurav Malhotra
 Business analysts, data scientists, app developers and data engineers all need a simple and self-service way to find the data they need from plethora of systems in their organization. In this session, you’ll see how Azure Purview Illuminates all of the enterprise data in operational, analytics and processing systems so you can search and filter to find interesting and relevant data within minutes. 
