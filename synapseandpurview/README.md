@@ -16,7 +16,7 @@ Explore the future of data and analytics with a focus on reliably creating trust
 Business analysts, data scientists, app developers and data engineers all need a simple and self-service way to find the data they need from plethora of systems in their organization. In this session, you’ll see how Azure Purview Illuminates all of the enterprise data in operational, analytics and processing systems so you can search and filter to find interesting and relevant data within minutes. 
 
  
-### 11:30 AM Bring business context to your data assets, Pratik Verma and friends 
+### 11:30 AM Bring business context to your data assets, Sumi Venkitaraman 
 Business users think about data in terms of customers, features, products, interactions and not just in terms of tables, columns and files. Subject matter experts, data curators and data governance teams need a scalable and manageable way to bring this context to enterprise data across plethora of systems. In this session, you’ll see how data curators can bring sanity to data sprawl and make it easier for business users to find the data they need. 
 
  
