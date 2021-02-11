@@ -11,11 +11,11 @@ This repo is a place to share slide decks, demos and links.
 <br/>  
 
 ### The next shows:
-- #### [2021.02.10 11:00 AM PST - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)
 - #### [2021.02.16 11:00 AM PST - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
 
 
 ### Previous Shows:
+- #### [2021.02.10 - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
 - #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
 
