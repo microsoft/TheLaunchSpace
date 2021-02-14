@@ -6,7 +6,7 @@
 [Return to The Launch Space](../README.md)
 <br/>
 
-## February 16, 2020 11AM - 2PM Pacific Time
+## February 16, 2021 11AM - 2PM Pacific Time
 
 ### [Learn TV Broadcast](https://aka.ms/learntv) 
 
