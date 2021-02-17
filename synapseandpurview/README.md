@@ -8,7 +8,7 @@
 
 ## February 16, 2021 11AM - 2PM Pacific Time
 
-### [Learn TV Broadcast](https://aka.ms/learntv) 
+### [Watch the recording](https://youtu.be/keUAHlYnYPU)   
 
 Explore the future of data and analytics with a focus on reliably creating trusted, accurate data and timely, actionable insights.  Take a tour of [Azure Purview](https://azure.microsoft.com/services/purview/), a unified data governance service, and see how it enables you to easily discover your data, derive meaning from it, and maximize its business value.  Follow demos to see how Power BI, [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/), and Azure Purview work together to provide an end-to-end data and analytics solution that accelerates time to insight.  
 
