@@ -10,11 +10,13 @@ The show is Broadcast on [LearnTV](http://aka.ms/learntv)
 This repo is a place to share slide decks, demos and links.
 <br/>  
 
-### The next shows:
-- #### [2021.02.16 11:00 AM PST - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
-
+### Upcoming shows:
+- #### 2021.02.23 - 09:00 AM PST - The Launch Space - Episode 5 - Azure Front Door and Azure Firewall
+- #### 2021.02.24 - 11:00 AM PST - The Launch Space - Episode 6 - What's new with Powershell
+- #### 2021.03.18 - 11:00 AM PST - The Launch Space - Episode 8 - What’s new with the Azure CLI
 
 ### Previous Shows:
+- #### [2021.02.16 - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
 - #### [2021.02.10 - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
 - #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)

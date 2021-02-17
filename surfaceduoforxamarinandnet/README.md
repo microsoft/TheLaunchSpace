@@ -9,7 +9,7 @@ Learn about the Microsoft Surface Duo and how to build Android apps that run on 
 
 ## February 10, 2021 11AM - 12PM Pacific Time
 
-### [Learn TV Broadcast](https://aka.ms/learntv)  
+### [Watch the recording](https://youtu.be/t8alvJeRlzM)  
 
 
 ## Speakers 
