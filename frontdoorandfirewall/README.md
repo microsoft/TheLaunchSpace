@@ -2,7 +2,7 @@
 <br/>
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
-Azure Firewall Premium and Azure Front Door Standard/Premium we're recently released to public preview. These releases introduce several important security features. We will discuss the new capabilities and show you how everything works.
+Azure Firewall Premium and Azure Front Door Standard/Premium were recently released to public preview. These releases introduce several important security features. We will discuss the new capabilities and show you how everything works.
 
 [Return to The Launch Space](../README.md)
 <br/>
@@ -18,9 +18,9 @@ Anthony leads the Network Security team within Security Engineering Customer Exp
 
 
 #### Links: 
-[Azure Firewall Docs](https://docs.microsoft.com/en-us/azure/firewall/)
+[Azure Firewall Docs](https://cda.ms/1Xw)
 
-[Azure Firewall on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-firewall/)
+[Azure Firewall on Microsoft Learn](https://cda.ms/1Xx)
 
-[Azure Front Door Docs](https://docs.microsoft.com/en-us/azure/frontdoor/)
+[Azure Front Door Docs](https://cda.ms/1Xy)
 
