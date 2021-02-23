@@ -11,11 +11,11 @@ This repo is a place to share slide decks, demos and links.
 <br/>  
 
 ### Upcoming shows:
-- #### [2021.02.23 - 09:00 AM PST - The Launch Space - Episode 5 - What's new in Azure Network Security?](frontdoorandfirewall/README.md)
 - #### [2021.02.24 - 11:00 AM PST - The Launch Space - Episode 6 - What's new with Powershell](powershell/README.md)
 - #### 2021.03.18 - 11:00 AM PST - The Launch Space - Episode 7 - What’s new with the Azure CLI
 
 ### Previous Shows:
+- #### [2021.02.23 - What's new in Azure Network Security?](frontdoorandfirewall/README.md)
 - #### [2021.02.16 - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
 - #### [2021.02.10 - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
