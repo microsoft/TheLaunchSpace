@@ -9,11 +9,12 @@ Azure Firewall Premium and Azure Front Door Standard/Premium were recently relea
 
 ## February 23, 2021 9AM - 10AM Pacific Time
 
-### Watch the broadcast on [LearnTV](http://aka.ms/learntv)
+### [Watch the recording](https://youtu.be/_evcnrRjcXs)
 
 ## Speakers 
 ### Anthony Roman
-[LinkedIn](https://www.linkedin.com/in/anthonydroman/)
+[LinkedIn]
+(https://www.linkedin.com/in/anthonydroman/)
 Anthony leads the Network Security team within Security Engineering Customer Experience (CxE). The team sits between customers and developers, helping customers to understand and deploy Azure network security resources while collecting feedback for product improvement. The primary Azure network security tools are Azure Firewall, Firewall Manager, WAF, and DDoS Protection.
 
 
