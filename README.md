@@ -4,10 +4,12 @@
 
 <img src="media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
-The Launch space is a new live broadcast show on Learn TV for sharing news about new Microsoft product and feature releases.  
-The show is Broadcast on [LearnTV](http://aka.ms/learntv) 
+The Launch space is a new live broadcast show on Learn TV for sharing news about new Microsoft product and feature releases.  This repo is a place to share slide decks, demos and links.
 
-This repo is a place to share slide decks, demos and links.
+###### The show is Broadcast on [LearnTV](http://aka.ms/learntv) 
+###### Past shows and the current schedule are on [Channel 9](https://cda.ms/1Z7)
+
+
 <br/>  
 
 ### Upcoming shows:
@@ -21,11 +23,11 @@ This repo is a place to share slide decks, demos and links.
 - #### [2020.12.08 - Kubernetes on Azure](KubernetesOnAzure/README.md)
 - #### [2020.09.15 - Azure Spring Cloud GA](AzureSpringCloudGA/README.md)
 
-<br/><br/>
+<br/>
 
-The Launch Space is broadcast here: https://youtu.be/QPXNfV9MciI
+###### The show is Broadcast on [LearnTV](http://aka.ms/learntv) 
+###### Past shows and the current schedule are on [Channel 9](https://cda.ms/1Z7)
 
-Learn TV can be viewed here: http://aka.ms/learnTV
 
 <br/>
 
