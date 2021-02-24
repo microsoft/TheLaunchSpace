@@ -12,7 +12,7 @@ This repo is a place to share slide decks, demos and links.
 
 ### Upcoming shows:
 - #### [2021.02.24 - 11:00 AM PST - The Launch Space - Episode 6 - What's new with Powershell](powershell/README.md)
-- #### 2021.03.18 - 11:00 AM PST - The Launch Space - Episode 7 - What’s new with the Azure CLI
+- #### [2021.03.09 - 2:00 PM PST - The Launch Space - Episode 7 - New Azure CLI offerings, from the (open) source](azurecli/README.md)
 
 ### Previous Shows:
 - #### [2021.02.23 - What's new in Azure Network Security?](frontdoorandfirewall/README.md)
