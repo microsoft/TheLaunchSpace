@@ -13,10 +13,10 @@ The Launch space is a new live broadcast show on Learn TV for sharing news about
 <br/>  
 
 ### Upcoming shows:
-- #### [2021.02.24 - 11:00 AM PST - The Launch Space - Episode 6 - What's new with Powershell](powershell/README.md)
 - #### [2021.03.09 - 2:00 PM PST - The Launch Space - Episode 7 - New Azure CLI offerings, from the (open) source](azurecli/README.md)
 
 ### Previous Shows:
+- #### [2021.02.24 - What's new with Azure Powershell](powershell/README.md)
 - #### [2021.02.23 - What's new in Azure Network Security?](frontdoorandfirewall/README.md)
 - #### [2021.02.16 - The latest news about Azure Synapse and Purview](synapseandpurview/README.md)
 - #### [2021.02.10 - Surface Duo for Xamarin and .NET developers](surfaceduoforxamarinandnet/README.md)

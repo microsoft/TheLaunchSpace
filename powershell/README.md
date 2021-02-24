@@ -11,7 +11,7 @@ Finally you will see how AI meets PowerShell to deliver a whole new command line
 
 ## February 24, 2021 11AM - 12PM Pacific Time
 
-### Watch the broadcast on [LearnTV](http://aka.ms/learntv)
+### [Watch the recording](https://youtu.be/o_IBKMxNghw)
 
 ## Speakers 
 

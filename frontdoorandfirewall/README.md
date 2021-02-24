@@ -31,3 +31,8 @@ Anthony leads the Network Security team within Security Engineering Customer Exp
 
 [Azure Front Door Docs](https://cda.ms/1Xy)
 
+[Azure-Network-Security on GitHub](https://aka.ms/AzNetSec)
+
+[Azure Network Security Blog](https://cda.ms/1ZB)
+
+[Security Community Webinars](https://cda.ms/1ZC)
