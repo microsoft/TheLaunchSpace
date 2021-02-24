@@ -38,3 +38,4 @@ Twitter - [@mikefrobbins](theJasonHelmick)
 
 [Microsoft Learn: Introduction to PowerShell](https://cda.ms/1Yp)
 
+[PowerShell on GitHub](https://github.com/powershell)
