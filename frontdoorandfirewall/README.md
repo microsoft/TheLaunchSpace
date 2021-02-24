@@ -19,6 +19,12 @@ Anthony leads the Network Security team within Security Engineering Customer Exp
 
 
 #### Links: 
+[Announcement: Azure Firewall Premium now in preview](https://cda.ms/1Z4)
+
+[Announcement: Azure Front Door enhances secure cloud CDN with intelligent threat protection](https://cda.ms/1Z5)
+
+[Overview of load-balancing options in Azure](https://cda.ms/1Z2)
+
 [Azure Firewall Docs](https://cda.ms/1Xw)
 
 [Azure Firewall on Microsoft Learn](https://cda.ms/1Xx)
