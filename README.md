@@ -14,6 +14,7 @@ The Launch space is a new live broadcast show on Learn TV for sharing news about
 
 ### Upcoming shows:
 - #### [2021.03.09 - 2:00 PM PST - The Launch Space - Episode 7 - New Azure CLI offerings, from the (open) source](azurecli/README.md)
+- #### [2021.03.11 - 1:00 PM PST - The Launch Space - Episode 8 - Microsoft’s new  Security, Compliance, and Identity (SCI) certifications](azuresci/README.md)
 
 ### Previous Shows:
 - #### [2021.02.24 - What's new with Azure Powershell](powershell/README.md)
