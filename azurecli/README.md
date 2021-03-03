@@ -14,6 +14,9 @@ This show highlights some of the exciting new developments in the native cross-p
 
 ## Speakers 
 
+### Lomis Chen
+Program Manager, Microsoft
+
 ### Arun Chandrasekhar
 
 Twitter - [@rcarunmsft](https://twitter.com/rcarunmsft)
