@@ -15,7 +15,8 @@ This show highlights some of the exciting new developments in the native cross-p
 ## Speakers 
 
 ### Lomis Chen
-Program Manager, Microsoft
+
+Lomis is currently a PM for Azure CLI with a focus on UX and CSAT improvement. She’s been working closely with various partners in conceptualizing, designing, and delivering the new CLI design guidelines, the new error output, az upgrade, az next, command progress bar, and more. Prior to joining this team she’d worked under COSINE on an inner source platform, the static code analysis service, and OSS security. She joined MS right after college with a degree in EE and management sci
 
 ### Arun Chandrasekhar
 
