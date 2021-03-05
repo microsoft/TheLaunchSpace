@@ -3,7 +3,7 @@
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
 
-This show highlights some of the exciting new developments in the native cross-platform command line interface (CLI) for Azure, directly from the product team. The team is re-imagining Azure CLI guidance in docs and inside the CLI help to leverage best-of-breed content structure, including some exciting new AI techniques! We will then delve into some powerful new changes to simplify the interactive user experience. We'll wrap up with a discusssion about all the new commands to support the latest Azure features and services tha were delivered in time for Ignite.
+This show highlights some of the exciting new developments in the native cross-platform command line interface (CLI) for Azure, directly from the product team. The team is re-imagining Azure CLI guidance in docs and inside the CLI help to leverage best-of-breed content structure, including some exciting new AI techniques! We will then delve into some powerful new changes to simplify the interactive user experience. We'll wrap up with a discussion about all the new commands to support the latest Azure features and services tha were delivered in time for Ignite.
 
 [Return to The Launch Space](../README.md)
 <br/>
@@ -15,7 +15,8 @@ This show highlights some of the exciting new developments in the native cross-p
 ## Speakers 
 
 ### Lomis Chen
-Program Manager, Microsoft
+
+Lomis is currently a PM for Azure CLI with a focus on UX and CSAT improvement. She’s been working closely with various partners in conceptualizing, designing, and delivering the new CLI design guidelines, the new error output, az upgrade, az next, command progress bar, and more. Prior to joining this team she’d worked under COSINE on an inner source platform, the static code analysis service, and OSS security. She joined MS right after college with a degree in EE and management sci
 
 ### Arun Chandrasekhar
 
@@ -35,3 +36,14 @@ With a background in Azure deliveries for reporting and analytics, Delora joined
 [Microsoft Docs: Azure CLI](https://cda.ms/1Z1)
 
 [Microsoft Learn: Control Azure services with the CLI](https://cda.ms/1Z2)
+
+[Azure Data Share](https://cda.ms/20L)
+
+[Azure IoT](https://cda.ms/20M)
+
+[Azure Monitor](https://cda.ms/20N)
+
+[Azure Network](https://cda.ms/20Q)
+
+
+
