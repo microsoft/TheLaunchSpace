@@ -24,3 +24,11 @@ Brandon will share details on the SC-200: Security Operations Analyst and the SC
 
 #### Links: 
 
+
+[SC-200: Security Operations Analyst](https://cda.ms/20T)
+
+[SC 300: Microsoft Identity and Access Administrator](https://cda.ms/20V)
+
+[SC-400: Information Protection Administrator](https://cda.ms/20W)
+
+[SC-900 Microsoft Security, Compliance, and Identity Fundamentals](https://cda.ms/20S)
