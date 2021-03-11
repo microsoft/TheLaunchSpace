@@ -10,7 +10,7 @@ This show highlights some of the exciting new developments in the native cross-p
 
 ## March 9, 2021 2PM - 3PM Pacific Time
 
-### Watch the broadcast on [LearnTV](http://aka.ms/learntv)
+### [Watch the recording](https://youtu.be/YWc9oLpTg2A)
 
 ## Speakers 
 
