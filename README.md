@@ -13,12 +13,13 @@ The Launch space is a new live broadcast show on Learn TV for sharing news about
 <br/>  
 
 ### Upcoming shows:
-- #### [2021.03.11 - 1:00 PM PST - The Launch Space - Episode 8 - Microsoft’s new  Security, Compliance, and Identity (SCI) certifications](azuresci/README.md)
+
 - #### [2021.03.18 - 1:00 PM PST - The Launch Space - Episode 9 - Microservices made easy with Dapr](dapr1/README.md)
 - #### [2021.03.25 - 1:00 PM PST - The Launch Space - Episode 10 - Surface Duo for Android developers](surfaceduoforandroid/README.md)
 - #### [2021.04.01 - 1:00 PM PST - The Launch Space - Episode 11 - Introducing Microsoft’s Power Platform Solution Architect Certification](ppsacert/README.md)
 
 ### Previous Shows:
+- #### [2021.03.11 - Microsoft’s new  Security, Compliance, and Identity (SCI) certifications](azuresci/README.md)
 - #### [2021.03.09 - New Azure CLI offerings, from the (open) source](azurecli/README.md)
 - #### [2021.02.24 - What's new with Azure Powershell](powershell/README.md)
 - #### [2021.02.23 - What's new in Azure Network Security?](frontdoorandfirewall/README.md)

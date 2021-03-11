@@ -9,7 +9,7 @@ Microsoft recently announced new certifications for Security, Compliance, and Id
 
 ## March 11, 2021 1PM - 2PM Pacific Time
 
-### Watch the broadcast on [LearnTV](http://aka.ms/learntv)
+### [Watch the recording](https://youtu.be/tGJlJMLYm-A)
 
 ### Topics and Speakers
 
