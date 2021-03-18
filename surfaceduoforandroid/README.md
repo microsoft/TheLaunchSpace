@@ -2,7 +2,9 @@
 <br/>
 <img src="../media/LaunchSpace_Logo-Large_github.png" ant="launchspace logo" title="The Launch Space" width="250">
 
-Learn about the Microsoft Surface Duo and how to build Android apps that run on dual-screen foldable devices, with new tools announced at [Flutter Engage](https://events.flutter.dev/) on March 3, 2021.  
+Abstract
+Microsoft is contributing to Flutter to make it work well on foldables. Let’s dive into the details, including code and examples.  Learn about the Microsoft Surface Duo and how to build Android apps that run on dual-screen foldable devices, with new tools announced at [Flutter Engage](https://events.flutter.dev/) on March 3, 2021.  
+
 [Flutter](https://flutter.dev/) is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 [Return to The Launch Space](../README.md)
@@ -20,7 +22,10 @@ Learn about the Microsoft Surface Duo and how to build Android apps that run on 
 A recent addition to the Surface Duo Developer Experience team, Craig previously spent 8 years working on Xamarin cross-platform mobile developer tools.
 
 ### Andrei Tudor Diaconu, Senior Software Engineer, Microsoft
+@andreidiaconu
 
+Part of the Surface Duo Developer Experience team, Andrei is an early adopter of Flutter, after many years of Android development.
+ 
 
 #### Links: 
 [Surface Duo](https://cda.ms/1WB)
@@ -36,3 +41,5 @@ A recent addition to the Surface Duo Developer Experience team, Craig previously
 [Surface Duo Developer Twitter](https://twitter.com/surfaceduodev)
 
 [Surface Duo Twitch](https://twitch.tv/surfaceduodev)
+
+[Blog Post: Xamarin.Forms 5.0 on Microsoft Surface Duo](https://cda.ms/22d)
